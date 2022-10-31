@@ -1,16 +1,13 @@
-### Hi there 👋
+![UI/UX & Frontend](https://github.com/nikattoja/nikattoja/blob/main/banner.png)
 
-<!--
-**nikattoja/nikattoja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Weronika Tutkaj
+🙋‍♀️ I'm Weronika from Poland. I'm interested in design (UI and UX) and frontend development. I'm currently learning React and making projects in it. I'm also working in Figma, trying to create fancy designs. 
 
-Here are some ideas to get you started:
+## Skills and Experience
+* ⚛ React
+* 💻 HTML, CSS, JS
+* 🎨 UI / UX
+* 🟣 Figma
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Examples of Work
+<img src="https://github.com/nikattoja/nikattoja/blob/main/work.png" width="512" >
